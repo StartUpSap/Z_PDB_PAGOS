@@ -1,0 +1,4 @@
+@EndUserText.label: 'Reporte PDB Pagos'
+define service Z_PDB_PAGOS {
+  expose Z_PDB_PAGOS;
+}
